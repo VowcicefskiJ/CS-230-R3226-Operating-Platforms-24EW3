@@ -23,8 +23,7 @@ Technologies Used
 
     Frontend: HTML5, CSS3, JavaScript for a dynamic and responsive design.
     Backend: Node.js and Express.js for server-side logic.
-    Database: MongoDB for data storage.
-    Deployment: Utilizes Docker and Kubernetes for efficient deployment and scaling.
+    Database: MongoDB for data storage
 
 For any inquiries or further information be contact below:
 
