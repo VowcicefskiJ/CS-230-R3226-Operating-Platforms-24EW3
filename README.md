@@ -52,9 +52,6 @@ Interpreting the user's needs was crucial. It wasn't just about listing features
 
 As for my approach to designing software, I leaned heavily on breaking down the project into smaller, manageable components. For future projects, I plan to continue using this strategy, coupled with more user feedback sessions early in the design phase. This way, I can ensure the software not only meets the technical requirements but also resonates with the users.
 
-Thank you,
-John V
-
 For any inquiries or further information be contact below:
 
     Email: Johnwvowcicefski@outlook.com
